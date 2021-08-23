@@ -1,6 +1,6 @@
 ## Currículo Desenvolvedor PHP
 
-Para utilização diversas em casos de contato para projetos.
+Para utilização em casos de contato para projetos.
 
 #### Clonar o repositório
 
